@@ -196,6 +196,7 @@
 -   [Find My Moat](https://findmymoat.com/) - Investing Tools Directory
 -   [CalcFi](https://calcfi.app/) - 312+ free financial calculators (compound interest, FIRE number, retirement, investment returns, tax brackets). No signup, no ads.
 -   [FinancialData.Net](https://financialdata.net/) - Financial datasets (stock market data, financial statements, sustainability data, and more).
+-   [Insider Express (Canada)](https://insiderexpress.ca) - Canadian public filings cross-linked by person and company: SEDI insider trades, MP and senator disclosed holdings, federal lobbying, political donations, and federal contracts and grants; free to read, a free account is required after a few pages
 
 ---
 
